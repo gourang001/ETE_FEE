@@ -1,0 +1,637 @@
+{
+    "python": [
+      {
+        "id": "1",
+        "title": "Basic of Python",
+        "username": "Code with harry",
+        "vote": "4.7",
+        "Students": "84,259",
+        "price": "₹200",
+        "oldPrice": "₹700",
+        "img": "https://files.realpython.com/media/Newbie_Watermarked.a9319218252a.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Basic to Advance",
+        "username": "Love Bubber",
+        "vote": "3.7",
+        "Students": "19,422",
+        "price": "₹700",
+        "oldPrice": "₹1500",
+        "img": " https://cdn.educba.com/academy/wp-content/uploads/2016/09/Basic-Concepts-of-Python-Programming.jpg"
+      },
+      {
+        "id": "3",
+        "title": "NumPy",
+        "username": "code Dev",
+        "vote": "4.1",
+        "Students": "11,785",
+        "price": "₹2000",
+        "oldPrice": "₹4000",
+        "img": " https://img-c.udemycdn.com/course/750x422/4478554_d14d_4.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Panda",
+        "username": "Code Camp",
+        "vote": "3.7",
+        "Students": "4,259",
+        "price": "₹1500",
+        "oldPrice": "₹4200",
+        "img": " https://harve.com.br/wp-content/uploads/2021/05/pandas-python-interface.png"
+      },
+      {
+        "id": "5",
+        "title": "Project",
+        "username": "Universe code",
+        "vote": "4.9",
+        "Students": "4,059",
+        "price": "₹2000",
+        "oldPrice": "₹7000",
+        "img": " https://www.interviewbit.com/blog/wp-content/uploads/2021/07/Python-Projects.png"
+      }
+    ],
+
+    "webdev": [
+      {
+        "id": "6",
+        "title": "WebDev html css",
+        "username": "Code with harry",
+        "vote": "4.7",
+        "Students": "84,259",
+        "price": "₹200",
+        "oldPrice": "₹700",
+        "img": " https://miro.medium.com/v2/resize:fit:1200/0*M4bxiCIjcTK-2Xr6.jpeg"
+      },
+      {
+        "id": "7",
+        "title": "React JS",
+        "username": "Love Bubber",
+        "vote": "3.7",
+        "Students": "19,422",
+        "price": "₹700",
+        "oldPrice": "₹1500",
+        "img": " https://www.bairesdev.com/wp-content/uploads/2022/06/Picture6-1.svg"
+      },
+      {
+        "id": "8",
+        "title": "Basic HTML CSS JS",
+        "username": "code Dev",
+        "vote": "4.1",
+        "Students": "11,785",
+        "price": "₹2000",
+        "oldPrice": "₹4000",
+        "img": " https://global.discourse-cdn.com/business7/uploads/openweaver/original/2X/f/f56bb4d8942bed4e2364b43812310bd69d74185d.jpeg"
+      },
+      {
+        "id": "9",
+        "title": "Full Stack in  1 week",
+        "username": "Code Camp",
+        "vote": "3.7",
+        "Students": "4,259",
+        "price": "₹1500",
+        "oldPrice": "₹4200",
+        "img": " https://miro.medium.com/v2/resize:fit:1400/0*cl7fc6pt1MHjIF4K.png"
+      },
+      {
+        "id": "10",
+        "title": "TypeScript and TSX",
+        "username": "Universe code",
+        "vote": "4.9",
+        "Students": "4,059",
+        "price": "₹2000",
+        "oldPrice": "₹7000",
+        "img": " https://blog.toothpickapp.com/content/images/2022/08/ts_logo.png"
+      }
+    ],
+
+      "js": [
+        {
+          "id": "16",
+          "title": "Basic of JS",
+          "username": "Code with harry",
+          "vote": "4.3",
+          "Students": "84,259",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": "https://miro.medium.com/v2/resize:fit:1358/1*zmDZPFvLFIiT3PfNxgkS7g.jpeg "
+        },
+        {
+          "id": "17",
+          "title": "Advance JS",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹2000",
+          "oldPrice": "₹5000",
+          "img": "https://www.sipexe.com/assets/courses/Adavaced_JavaScript.png "
+        },
+        {
+          "id": "18",
+          "title": "React JS",
+          "username": "code Dev",
+          "vote": "4.5",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://miro.medium.com/v2/resize:fit:1400/1*EVqCcmCPgpNKxU1wzcTHgw.png"
+        },
+        {
+          "id": "19",
+          "title": "TypeScript and JSX",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": " https://blog.toothpickapp.com/content/images/2022/08/ts_logo.png"
+        },
+        {
+          "id": "20",
+          "title": "Project",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221114110410/Top-10-JavaScript-Project-Ideas-For-Beginners-2023.png "
+        }
+      ],
+
+      "ds": [
+        {
+          "id": "21",
+          "title": "Basic of Python",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": "https://files.realpython.com/media/Newbie_Watermarked.a9319218252a.jpg"
+        },
+        {
+          "id": "22",
+          "title": "Python Library",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹500",
+          "oldPrice": "₹2000",
+          "img": "https://i0.wp.com/machinemantra.in/wp-content/uploads/2019/09/python-library.png?fit=800%2C600&ssl=1 "
+        },
+        {
+          "id": "23",
+          "title": "Panda",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://datascientest.com/en/wp-content/uploads/sites/9/2022/01/illu_pandas-82-1024x562.png"
+        },
+        {
+          "id": "24",
+          "title": "NumPy",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹2500",
+          "oldPrice": "₹5000",
+          "img": " https://numpy.org/images/numpy-image.jpg"
+        },
+        {
+          "id": "25",
+          "title": "Project",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": " https://www.interviewbit.com/blog/wp-content/uploads/2021/07/Python-Projects-800x391.png"
+        }
+      ],
+
+      "cc": [
+        {
+          "id": "26",
+          "title": "Basic of cc",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹500",
+          "oldPrice": "₹700",
+          "img": "https://n7b3p4s2.stackpathcdn.com/article/basic-understanding-of-cloud-computing/Images/Basic%20Understanding%20Of%20Cloud%20Computing.jpg "
+        },
+        {
+          "id": "27",
+          "title": "Controled Data",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹700",
+          "oldPrice": "₹1500",
+          "img": " https://www.faststreamtech.com/wp-content/uploads/2017/08/cloud_banner.jpg"
+        },
+        {
+          "id": "28",
+          "title": "Basic to Advance in cc",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://media.licdn.com/dms/image/D4D12AQFDXKIXjfAbQQ/article-cover_image-shrink_720_1280/0/1664308724361?e=2147483647&v=beta&t=YTD4TvDv_ISpd85Qkq5D0QVGKmCqeeXFJmz5V6lJVa4"
+        },
+        {
+          "id": "29",
+          "title": "AWS",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": " https://assets.intersystems.com/dims4/default/a9dad27/2147483647/strip/true/crop/780x422+0+0/resize/780x422!/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg"
+        },
+        {
+          "id": "30",
+          "title": "Project",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹700",
+          "img": "https://www.interviewbit.com/blog/wp-content/uploads/2021/12/Cloud-Computing-Projects.png "
+        }
+      ],
+
+      "corejava": [
+        {
+          "id": "31",
+          "title": "Basic of Java",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹200",
+          "oldPrice": "₹700",
+          "img": " https://simplycoding.in/wp-content/uploads/2021/06/Java-Theory-Java-Basics.jpg"
+        },
+        {
+          "id": "32",
+          "title": "Data Structure",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹700",
+          "oldPrice": "₹1500",
+          "img": "https://cdn.educba.com/academy/wp-content/uploads/2020/01/data-structure-in-java.jpg "
+        },
+        {
+          "id": "33",
+          "title": "Basic to Advance in Java",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/11/blog_Advanced-Java-Tutorial.jpg"
+        },
+        {
+          "id": "34",
+          "title": "ADI",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": " https://opengraph.githubassets.com/b084bd4439bd59d7b6b008669ad61a18915c5464be979e15d1fea148b47a4863/dat-adi/Java-Grip"
+        },
+        {
+          "id": "35",
+          "title": "Project",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹700",
+          "img": "https://www.interviewbit.com/blog/wp-content/uploads/2021/12/Java-Projects.png "
+        }
+      ],
+
+      "dm": [
+        {
+          "id": "36",
+          "title": "Marketing",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+        "img": "https://elysiumacademy.org/wp-content/uploads/2018/12/css-html-1.jpg"
+        },
+        {
+          "id": "37",
+          "title": "Product Branding",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹2000",
+          "oldPrice": "₹5000",
+          "img": " https://vickiweinberg.com/wp-content/uploads/2019/11/Copy-of-How-to-ship-and-store-your-products.png"
+        },
+        {
+          "id": "38",
+          "title": "Digital Marketing",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_digital_marketing.jpg"
+        },
+        {
+          "id": "39",
+          "title": "Digital Tools",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": " https://cdn.educba.com/academy/wp-content/uploads/2019/06/Digital-Marketing-Tools.jpg"
+        },
+        {
+          "id": "40",
+          "title": "Hand-on-session's",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": "https://miro.medium.com/v2/resize:fit:400/0*ILMVV-Z6DHaOqBg3 "
+        }
+      ],
+
+      "pd": [
+        {
+          "id": "41",
+          "title": "Basic",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹200",
+          "oldPrice": "₹700",
+          "img": "https://www.iberdrola.com/documents/20125/40738/Superacion_Personal_746x419_EN.jpg/8a9c08bc-7dac-da73-0049-fbf8f9d907a1?t=1627619915457 "
+        },
+        {
+          "id": "42",
+          "title": "Communication Skills",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹700",
+          "oldPrice": "₹1500",
+          "img": " https://www.eln.co.uk/filemanager/photos/119/Blogs%20(WebP)/Communication.webp"
+        },
+        {
+          "id": "43",
+          "title": "Body Posture",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": "https://image.slidesharecdn.com/personalityandbodylanguage-180102115733/85/personality-development-and-body-language-11-320.jpg?cb=1666607833 "
+        },
+        {
+          "id": "44",
+          "title": "All-Rounder Development",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": "https://www.researchgate.net/publication/352942309/figure/fig1/AS:1041507947671552@1625326253795/All-round-development-of-the-Student.ppm "
+        },
+        {
+          "id": "45",
+          "title": "Case Study",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": " https://www.slideteam.net/media/catalog/product/cache/1280x720/c/a/case_study_for_personality_development_workshop_ppt_powerpoint_background_slide01.jpg"
+        }
+      ],
+
+      "hr": [
+        {
+          "id": "46",
+          "title": "Basic",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹200",
+          "oldPrice": "₹700",
+          "img": " https://i0.wp.com/plopdo.com/wp-content/uploads/2021/09/img_1485.jpg?resize=475%2C405&ssl=1"
+        },
+        {
+          "id": "47",
+          "title": "Handaling employee",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹700",
+          "oldPrice": "₹1500",
+          "img": " https://www.vtechsolution.com/wp-content/uploads/2018/08/HANDLING-DISGRUNTLED-EMPLOYEES-AND-KEEPING-THE-WORKPLACE-SAFE.png"
+        },
+        {
+          "id": "48",
+          "title": "Recrutement",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://acutesoft.com/wp-content/uploads/2016/05/Recruitment-Services.png"
+        },
+        {
+          "id": "49",
+          "title": "Task Performance",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": " https://protelhrms.com/wp-content/uploads/2020/10/neelie-pic-e1561976169696-900x450-1-850x450.jpg"
+        },
+        {
+          "id": "50",
+          "title": "Case Study",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": "https://www.aihr.com/wp-content/uploads/HR-Analytics-Case-Study-Collection-Illustration.png "
+        }
+      ],
+      "editing": [
+        {
+          "id": "51",
+          "title": "Basic",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹200",
+          "oldPrice": "₹700",
+          "img": " https://i0.wp.com/plopdo.com/wp-content/uploads/2021/09/img_1485.jpg?resize=475%2C405&ssl=1"
+        },
+        {
+          "id": "52",
+          "title": "Handaling employee",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹700",
+          "oldPrice": "₹1500",
+          "img": " https://www.vtechsolution.com/wp-content/uploads/2018/08/HANDLING-DISGRUNTLED-EMPLOYEES-AND-KEEPING-THE-WORKPLACE-SAFE.png"
+        },
+        {
+          "id": "53",
+          "title": "Recrutement",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://acutesoft.com/wp-content/uploads/2016/05/Recruitment-Services.png"
+        },
+        {
+          "id": "54",
+          "title": "Task Performance",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": " https://protelhrms.com/wp-content/uploads/2020/10/neelie-pic-e1561976169696-900x450-1-850x450.jpg"
+        },
+        {
+          "id": "55",
+          "title": "Case Study",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": "https://www.aihr.com/wp-content/uploads/HR-Analytics-Case-Study-Collection-Illustration.png "
+        }
+      ],
+
+      "pm": [
+        {
+          "id": "46",
+          "title": "Basic",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹200",
+          "oldPrice": "₹700",
+          "img": " https://i0.wp.com/plopdo.com/wp-content/uploads/2021/09/img_1485.jpg?resize=475%2C405&ssl=1"
+        },
+        {
+          "id": "47",
+          "title": "Handaling employee",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹700",
+          "oldPrice": "₹1500",
+          "img": " https://www.vtechsolution.com/wp-content/uploads/2018/08/HANDLING-DISGRUNTLED-EMPLOYEES-AND-KEEPING-THE-WORKPLACE-SAFE.png"
+        },
+        {
+          "id": "48",
+          "title": "Recrutement",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://acutesoft.com/wp-content/uploads/2016/05/Recruitment-Services.png"
+        },
+        {
+          "id": "49",
+          "title": "Task Performance",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": " https://protelhrms.com/wp-content/uploads/2020/10/neelie-pic-e1561976169696-900x450-1-850x450.jpg"
+        },
+        {
+          "id": "50",
+          "title": "Case Study",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": "https://www.aihr.com/wp-content/uploads/HR-Analytics-Case-Study-Collection-Illustration.png "
+        }
+      ],
+
+      "excel": [
+        {
+          "id": "51",
+          "title": "Basic",
+          "username": "Code with harry",
+          "vote": "4.7",
+          "Students": "84,259",
+          "price": "₹200",
+          "oldPrice": "₹700",
+          "img": " https://i0.wp.com/plopdo.com/wp-content/uploads/2021/09/img_1485.jpg?resize=475%2C405&ssl=1"
+        },
+        {
+          "id": "52",
+          "title": "Handaling employee",
+          "username": "Love Bubber",
+          "vote": "3.7",
+          "Students": "19,422",
+          "price": "₹700",
+          "oldPrice": "₹1500",
+          "img": " https://www.vtechsolution.com/wp-content/uploads/2018/08/HANDLING-DISGRUNTLED-EMPLOYEES-AND-KEEPING-THE-WORKPLACE-SAFE.png"
+        },
+        {
+          "id": "53",
+          "title": "Recrutement",
+          "username": "code Dev",
+          "vote": "4.1",
+          "Students": "11,785",
+          "price": "₹2000",
+          "oldPrice": "₹4000",
+          "img": " https://acutesoft.com/wp-content/uploads/2016/05/Recruitment-Services.png"
+        },
+        {
+          "id": "54",
+          "title": "Task Performance",
+          "username": "Code Camp",
+          "vote": "3.7",
+          "Students": "4,259",
+          "price": "₹1500",
+          "oldPrice": "₹4200",
+          "img": " https://protelhrms.com/wp-content/uploads/2020/10/neelie-pic-e1561976169696-900x450-1-850x450.jpg"
+        },
+        {
+          "id": "55",
+          "title": "Case Study",
+          "username": "Universe code",
+          "vote": "4.9",
+          "Students": "4,059",
+          "price": "₹2000",
+          "oldPrice": "₹7000",
+          "img": "https://www.aihr.com/wp-content/uploads/HR-Analytics-Case-Study-Collection-Illustration.png "
+        }
+      ]
+
+  }
